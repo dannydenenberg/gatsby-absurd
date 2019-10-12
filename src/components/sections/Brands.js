@@ -12,23 +12,16 @@ import { ReactComponent as CokeLogo } from '@images/logos/coca-cola.svg';
 import { ReactComponent as NodeLogo } from '@images/logos/nodejs.svg';
 import { ReactComponent as NikeLogo } from '@images/logos/nike.svg';
 import { ReactComponent as InstagramLogo } from '@images/logos/instagram.svg';
+import { ReactComponent as TypescriptNode } from '@images/logos/typescriptnode.svg';
 
 const LOGOS = [
   {
-    logo: AirbnbLogo,
-    link: 'https://airbnb.io',
-  },
-  {
-    logo: AppleMusicLogo,
-    link: 'https://www.apple.com/in/music/',
+    logo: TypescriptNode,
+    link: 'https://typescript.com',
   },
   {
     logo: CokeLogo,
     link: 'https://coca-cola.com',
-  },
-  {
-    logo: NodeLogo,
-    link: 'https://nodejs.org',
   },
   {
     logo: NikeLogo,
