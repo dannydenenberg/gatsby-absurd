@@ -14,6 +14,8 @@ import { ReactComponent as NikeLogo } from '@images/logos/nike.svg';
 import { ReactComponent as InstagramLogo } from '@images/logos/instagram.svg';
 import { ReactComponent as TypescriptNode } from '@images/logos/typescriptnode.svg';
 import { ReactComponent as Java } from '@images/logos/java.svg';
+import { ReactComponent as Gatsby } from '@images/logos/gatsby.jpg';
+
 
 
 const LOGOS = [
@@ -22,16 +24,8 @@ const LOGOS = [
     link: 'https://typescript.com',
   },
   {
-    logo: CokeLogo,
-    link: 'https://coca-cola.com',
-  },
-  {
-    logo: NikeLogo,
-    link: 'https://www.w3schools.com/html/html5_intro.asp',
-  },
-  {
-    logo: InstagramLogo,
-    link: 'https://instagram.com',
+    logo: Gatsby,
+    link: 'https://gatsbyjs.com',
   },
   {
     logo: Java,
