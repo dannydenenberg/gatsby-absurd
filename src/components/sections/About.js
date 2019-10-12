@@ -48,12 +48,9 @@ const About = () => (
         <Container>
           <Grid>
             <div>
-              <h2>Speed past the competition</h2>
+              <h2>Shalom, welcome</h2>
               <p>
-                Gatsby.js builds the fastest possible website. Instead of
-                waiting to generate pages when requested, pre-build pages and
-                lift them into a global cloud of servers — ready to be delivered
-                instantly to your users wherever they are.
+                This speedy website is here to mark my place on the internet (of things?).
               </p>
             </div>
             <Art>
@@ -65,23 +62,20 @@ const About = () => (
               <Img fluid={data.art_learn.childImageSharp.fluid} />
             </Art>
             <div>
-              <h2>Nothing new to learn here</h2>
+              <h2>My home town</h2>
               <p>
-                Enjoy the power of the latest web technologies – React.js ,
-                Webpack , modern JavaScript and CSS and more — all set up and
-                waiting for you to start building.
+                I live in Omaha, NE (the secretly gorgeous midwestern city home to the college world series ⚾️ and Birkshire Hathaway🤑) 
               </p>
             </div>
           </Grid>
           <Grid>
             <div>
-              <h2>Grow and build your ideas</h2>
+              <h2>My mind is always running🏃‍♂️...</h2>
               <p>
-                Waste no more time on tooling and performance. Focus on the the
-                site you want to build and nothing more.
+                I'm always interested in new ideas.
                 <br />
                 <br />
-                Gatsby is fast in every way that matters.
+                I'm an award winning musician, singer, and actor. I have also auditioned infront of Katy Perry, Lionel Richie, and Luke Bryan for American Idol 🎤. 
               </p>
             </div>
             <Art>
