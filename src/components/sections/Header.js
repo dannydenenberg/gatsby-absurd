@@ -31,9 +31,9 @@ const Header = () => (
             </Art>
             <Text>
               <h1>
-                A ⚡️ fast site
+                A ⚡️ fast site for
                 <br />
-                for
+          
                 <br />
                 Danny Denenberg
               </h1>
