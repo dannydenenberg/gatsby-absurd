@@ -13,7 +13,7 @@ import { ReactComponent as NodeLogo } from '@images/logos/nodejs.svg';
 import { ReactComponent as NikeLogo } from '@images/logos/nike.svg';
 import { ReactComponent as InstagramLogo } from '@images/logos/instagram.svg';
 import { ReactComponent as TypescriptNode } from '@images/logos/typescriptnode.svg';
-import { ReactComponent as Html5 } from '@images/logos/html5.svg';
+
 
 
 const LOGOS = [
@@ -26,7 +26,7 @@ const LOGOS = [
     link: 'https://coca-cola.com',
   },
   {
-    logo: Html5,
+    logo: NikeLogo,
     link: 'https://www.w3schools.com/html/html5_intro.asp',
   },
   {
