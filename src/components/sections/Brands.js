@@ -13,7 +13,7 @@ import { ReactComponent as NodeLogo } from '@images/logos/nodejs.svg';
 import { ReactComponent as NikeLogo } from '@images/logos/nike.svg';
 import { ReactComponent as InstagramLogo } from '@images/logos/instagram.svg';
 import { ReactComponent as TypescriptNode } from '@images/logos/typescriptnode.svg';
-
+import { ReactComponent as Java } from '@images/logos/java.svg';
 
 
 const LOGOS = [
@@ -32,6 +32,10 @@ const LOGOS = [
   {
     logo: InstagramLogo,
     link: 'https://instagram.com',
+  },
+  {
+    logo: Java,
+    link: 'https://www.java.com/en/https://www.java.com/en/',
   },
 ];
 
