@@ -35,7 +35,7 @@ const LOGOS = [
   },
   {
     logo: Java,
-    link: 'https://www.java.com/en/https://www.java.com/en/',
+    link: 'https://www.java.com/en/',
   },
 ];
 
